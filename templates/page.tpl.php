@@ -1,9 +1,9 @@
-<!--page par defaut-->
+<!--Defautlt Page-->
 <!--fun starts here-->
 <h1 style="display:none">
 
   </h1>
-<!--i guess the loading was not that much of a good idea
+<!--edit : i guess the loading thingy was not that much of a good idea, use it at your own risk
 <div id="dvLoading">
     <p id="msf">
       <blink>...</blink>
@@ -25,6 +25,7 @@ whole thing-->
           <!--insert logo here-->
            <img src="<?php print $logo ?>" title="<?php print $site_name; ?>" alt="<?php print $site_name; ?>" style="margin:0 auto"/>
       </div>
+      <!--TO DO : add some regions for the block description-->
        <div class="logo">
             <h1 id="prenom" >Jean Luc<span style="color:#FFF !important"> Houedanou</span></h1>
           <div id="titrez">
@@ -87,5 +88,5 @@ whole thing-->
     </div>
 
   </div>
-<!--lien de telechargement blur-->
-<a href="https://github.com/jhouedanou/Blur" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+<!--GitHub-->
+<a href="https://github.com/jhouedanou/BlurDrupal" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>

@@ -14,6 +14,8 @@ Blur est :
 
 L'arrière plan de Blur est une photographie prise au rond point de la Riviéra Palmeraie, puis éditée avec un flou de profondeur de champ pour obtenir un effet 'Bokeh'
 
+Disponible ici http://github.com/jhouedanou/blur
+
 ## Conditions d'utilisation
 
 Blur étant basé sur des technologies et des librairies gratuites et OpenSource (jQuery, yaml et coda slider), il est donc logique qu'il soit gratuit et OpenSource.

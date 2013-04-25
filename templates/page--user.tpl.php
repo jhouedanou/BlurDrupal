@@ -1,4 +1,4 @@
-<!--page defaut-->
+<!--user login page-->
 <div class="marchand">
     <div id="upperbox" class="ym-box">
     </div>
