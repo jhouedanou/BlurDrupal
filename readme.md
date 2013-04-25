@@ -1,3 +1,7 @@
+# Blur Drupal ?
+
+C'est Blur pour Drupal :).
+
 # Blur ?
 
 Blur est :
@@ -19,9 +23,10 @@ Un lien retour vers le fork du template sur github (http://github.com/jhouedanou
 
 ## prochaines versions
 
-10 Avril 2013 - "DrupalBlur" | la version utilisée sur http://houedanou.com
+<del>10 Avril 2013 - "DrupalBlur" | la version utilisée sur http://houedanou.com</del> Dispo sur https://github.com/jhouedanou/BlurDrupal
 
-Mi-Aout 2012 | - "Typo3Blur" qui est une version de ce template compatible avec Typo3
+
+A un moment en 2013 | - "Typo3Blur" qui est une version de ce template compatible avec Typo3
 - "WPBlur" et "JoomBlur" respectivement des templates Wordpress et Joomla
 
 Que Dieu vous bénisse.
