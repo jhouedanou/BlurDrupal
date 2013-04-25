@@ -1,0 +1,16 @@
+name = Blur (for Drupal)
+core = 7.x
+description = A simple one page template for Drupal, based on 'blur' by Jean Luc Houédanou (http://github.com/jhouedanou/Blur)
+screenshot = /images/screenshot.png
+regions[accueil] = texte sur la page d'accueil
+regions[siteweb] = Galerie des sites web
+regions[graphisme] = Galerie des logos et graphiques
+regions[app] = Galerie des apps
+regions[webstra] = Galerie conseil web et seo
+regions[contact] = Formulaire de contact
+regions[rezo] = lien vers les reseaux sociaux
+regions[github] = lien github
+regions[content] = content
+stylesheets[all][] = style.css
+stylesheets[all][] = css/base.min.css
+stylesheets[all][] = css/coda-slider.min.css
