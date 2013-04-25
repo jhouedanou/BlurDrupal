@@ -27,8 +27,6 @@ Un lien retour vers le fork du template sur github (http://github.com/jhouedanou
 
 <del>10 Avril 2013 - "DrupalBlur" | la version utilisée sur http://houedanou.com</del> Dispo sur https://github.com/jhouedanou/BlurDrupal
 
-
-A un moment en 2013 | - "Typo3Blur" qui est une version de ce template compatible avec Typo3
-- "WPBlur" et "JoomBlur" respectivement des templates Wordpress et Joomla
-
-Que Dieu vous bénisse.
+- Typo3Blur
+- PloneBlur
+- WPBlur
